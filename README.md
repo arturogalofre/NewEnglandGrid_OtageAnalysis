@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the New England Grid Outage Analysis repository! This project showcases my expertise in data analysis and handling, particularly in the context of analyzing the resilience of the New England grid. As a grid operator, developer, or enthusiast, understanding outage patterns is crucial for decision-making and optimizing grid performance.
+Welcome to the New England Grid Outage Analysis repository! This project focuses on data analysis and handling, particularly in the context of analyzing the resilience of the New England grid. As a grid operator, developer, or enthusiast, understanding outage patterns is crucial for decision-making and optimizing grid performance.
 
 ## Project Overview
 
