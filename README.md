@@ -22,11 +22,19 @@ The project includes a comprehensive yearly analysis of outage data. Outage dura
 
 Visualizations play a key role in conveying complex information. Two types of plots are generated:
 1. **Yearly Graph**: A line graph illustrating the total outage hours for equipment descriptions '315' and '327' over the years.
+![OccurencesTimeSeries](https://github.com/arturogalofre/NewEnglandGrid_OutageAnalysis/assets/75703907/ab6aa875-f199-483a-bd66-082fcba61eaa)
+
+
 2. **Pie Distribution**: A pie chart displaying the distribution of outage time between the selected equipment descriptions.
+![PieDistribution](https://github.com/arturogalofre/NewEnglandGrid_OutageAnalysis/assets/75703907/3c16c79f-a906-4c71-b32e-964700c23257)
+
+
 
 ### Time Series Analysis
 
 A time series analysis is performed on a generated range of dates for the year 2022. The analysis includes the creation of a DataFrame (`date_df`) and the addition of columns (`Value315` and `Value327`) based on outage occurrences during specific date ranges.
+
+![OutageOnOff](https://github.com/arturogalofre/NewEnglandGrid_OutageAnalysis/assets/75703907/865c2ce2-8966-4362-ad3b-5c5d708ad3d2)
 
 ### Code Organization
 
