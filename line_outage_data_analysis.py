@@ -7,7 +7,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 
-# Previously collected data from loine_outage_data_pull.py
+# Previously collected data from line_outage_data_pull.py
 data_df = pd.read_csv("api_data.csv")
 
 # Filter by the Outages that occur on lines and evaluate only the ones that have been implemented
