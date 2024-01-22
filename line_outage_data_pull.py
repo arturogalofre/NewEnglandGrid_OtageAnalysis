@@ -25,7 +25,7 @@ def get_outage_data(api_endpoint, day, outageType, station):
 
 api_endpoint = 'https://webservices.iso-ne.com/api/v1.1'
 outageType = 'short-term' #[x]xxxx-xxxx
-station = 'BRAYTNPT' #XXXXXXXX
+station = 'your_station' #XXXXXXXX
 
 username = 'your_username'
 password = 'your_username'
