@@ -8,7 +8,7 @@ Welcome to the New England Grid Outage Analysis repository! This project showcas
 
 ### Data Collection
 
-The project begins with the collection of outage data using a script (`loine_outage_data_pull.py`). The data is stored in a CSV file (`api_data.csv`), which serves as the foundation for subsequent analyses.
+The project begins with the collection of outage data using a script (`line_outage_data_pull.py`). The data is stored in a CSV file (`api_data.csv`), which serves as the foundation for subsequent analyses.
 
 ### Filtering and Cleaning
 
